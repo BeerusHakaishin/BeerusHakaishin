@@ -37,9 +37,9 @@
 ## Vous pouvez me contacter pour:
   
 <ul>
- <li>Un stage, une alternance.</li>
-<li>Transformer vos idées en applications/site</li>
-<ul>
+<li>Un stage, une alternance.</li>
+<li>Transformer vos idées en applications/site.</li>
+</ul>
     
 ## Me Contacter:
 [![Mail](https://img.shields.io/badge/-Mail-black?style=for-the-badge&logo=gmail)](mailto:meziani-i@outlook.fr)
