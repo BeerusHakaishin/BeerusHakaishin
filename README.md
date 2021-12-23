@@ -30,7 +30,7 @@
   
 ## Mes Stats Git Hub:
   
-![trophy](https://github-profile-trophy.vercel.app/?username=beerushakaishin&theme=onestar&row=1&column=7&no-frame=true&margin-w=13)
+![trophy](https://github-profile-trophy.vercel.app/?username=beerushakaishin&theme=matrix&row=1&column=7&no-frame=true&margin-w=13)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=beerushakaishin&show_icons=true&theme=dark&count_private=true&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beerushakaishin&langs_count=8&layout=compact&theme=dark&hide_border=true)
   
