@@ -32,15 +32,4 @@
   
 ![trophy](https://github-profile-trophy.vercel.app/?username=beerushakaishin&theme=matrix&row=1&column=7&no-frame=true&margin-w=13)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=beerushakaishin&show_icons=true&theme=dark&count_private=true&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beerushakaishin&langs_count=8&layout=compact&theme=dark&hide_border=true)
-  
-## Vous pouvez me contacter pour:
-  
-<ul>
-<li>Un stage, une alternance.</li>
-<li>Transformer vos idées en applications/site.</li>
-</ul>
-    
-## Me Contacter:
-[![Mail](https://img.shields.io/badge/-Mail-black?style=for-the-badge&logo=gmail)](mailto:meziani-i@outlook.fr)
-[![Linkedin](https://img.shields.io/badge/-Ismaël%20Meziani-black?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/isma%C3%ABl-meziani-84505b101/)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beerushakaishin&langs_count=8&layout=compact&theme=dark&hide_border=true) 
