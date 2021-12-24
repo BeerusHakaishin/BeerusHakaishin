@@ -27,7 +27,7 @@
 ![](https://img.shields.io/badge/Tool-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=2bbc8a)
   
-## Mes Stats Git Hub:
+## Stats Git Hub:
   
 ![trophy](https://github-profile-trophy.vercel.app/?username=beerushakaishin&theme=matrix&row=1&column=7&no-frame=true&margin-w=13)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=beerushakaishin&show_icons=true&theme=dark&count_private=true&hide_border=true)
