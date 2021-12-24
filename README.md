@@ -1,4 +1,3 @@
-# Ismaël Meziani (#Beerus)
 ## Développeur Web Junior Java/Angular 
 
 ## A Propos :
