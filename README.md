@@ -4,7 +4,7 @@
 
 <ul>
   <li>Actuellement en formation à la Wild Code School de <b>Lyon</b></li>
-  <li>Ancien préparateur physique et athlète de Powerlifting && Lutte</li>
+  <li>Ancien préparateur physique et athlète de haut niveau Powerlifting && Lutte</li>
   <li>Passioné par les jeux vidéos</li>
   <li>Fan de Pokémon && Dragon Ball</li>
 </ul>  
